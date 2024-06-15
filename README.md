@@ -1,1 +1,1 @@
-# JS_Project
+# making a slot machine game using javascript
